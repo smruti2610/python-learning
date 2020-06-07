@@ -3,8 +3,8 @@ Different Python concepts and code samples
 
 ## Chapter 1: 
 
-- Object and Data Structure
-- Ref: 
+1. Object and Data Structure
+2. Ref: 
 
 ## Chapter 2: 
 
