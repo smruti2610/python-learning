@@ -1,10 +1,18 @@
 # Python-learning concepts
 Different Python concepts and code samples
 
-## Chapter 1: 
+## Chapter 1: Pyhton Object and Data Structure  
 
-1. Object and Data Structure
-2. Ref: 
+1. Number
+2. Variables
+3. String
+4. List
+5. Dictionaries
+6. Tuples
+7. Sets
+8. Booleans
+9. File
+10. Test
 
 ## Chapter 2: 
 
