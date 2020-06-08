@@ -14,25 +14,30 @@ Different Python concepts and code samples
 9. File
 10. Test
 
-## Chapter 2: 
+## Chapter 2: Python Comparison Operators
 
-- Operators
+1. Comparison Operators in Python
+2. Chaining Comparison Operators in Python with Logical Operators
 
 ### Learning:
+== , !=, <, >, <=, >= 
+and , or , not
 
-- <, >, <=, >= etc.
+## Chapter 3: Python Statements
 
-## Chapter 3: 
+1. If else and elif statements
+2. For loop
+3. While loop
+4. Useful Operators
+5. List Comprehensions
+ 
+## Chapter 4: Functions and Methods
 
-- Statements
+1. Method and Python
+2. Functions in python
+3. Test of Function
+4. args and kwargs 
 
-### Learing
-
-- 
-
-### Reference URLs
-
-- 
 
 ## Chapter 4:
 
