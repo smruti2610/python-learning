@@ -37,3 +37,5 @@ and , or , not
 2. Functions in python
 3. Test of Function
 4. args and kwargs 
+5. Lambda Expressions ,Map and Filter
+6. Nested Statements and scope
