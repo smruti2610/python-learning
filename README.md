@@ -39,3 +39,16 @@ and , or , not
 4. args and kwargs 
 5. Lambda Expressions ,Map and Filter
 6. Nested Statements and scope
+7. Function Practice Example
+
+## Chapter 5: Python Project 1
+1. Milestone Project 1
+
+## Chapter 6: Object Oriented Program
+1. Object Oriented Programming
+2. Object Oriented Programming Homework
+
+## Chapter 7: Milestone Project
+1. Display Information
+
+
