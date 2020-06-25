@@ -42,13 +42,21 @@ and , or , not
 7. Function Practice Example
 
 ## Chapter 5: Python Project 1
-1. Milestone Project 1
+1. Display Information
+2. Milestone Project 1
+3. Tic Tac Teo
 
 ## Chapter 6: Object Oriented Program
 1. Object Oriented Programming
 2. Object Oriented Programming Homework
 
-## Chapter 7: Milestone Project
-1. Display Information
+## Chapter 7: Error and Exception Handling
+1. Error and Exception Handling
+2. Error and Exception Handling Homework
+3. Unit Testing
+
+## Chapter 8: Modules and Packages
+
+
 
 
